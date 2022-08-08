@@ -2,7 +2,7 @@
 
 ### Description:
 
-A content based movie recommender system sing cosine similarity that recommends movies similar to the movie name entered by the user.
+A content-based movie recommender system sing cosine similarity that recommends movies similar to the movie name entered by the user.
 
 
 ### To install required external modules
