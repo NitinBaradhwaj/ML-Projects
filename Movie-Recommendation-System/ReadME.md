@@ -2,7 +2,8 @@
 
 ### Description:
 
-Content-Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie by using cosine similarity.
+A content based movie recommender system sing cosine similarity that recommends movies similar to the movie name entered by the user.
+
 
 ### To install required external modules
 * Run `pip install pandas` 
