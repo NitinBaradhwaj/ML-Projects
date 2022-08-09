@@ -35,6 +35,12 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies
 
 ### Output Screenshots:
 
-![](images/ot1.png)
+<img width="1283" alt="ot22" src="https://user-images.githubusercontent.com/70907976/183747263-e65c10c1-8f6b-4ee5-a73a-d18862196785.png">
+
+<img width="1283" alt="ot11" src="https://user-images.githubusercontent.com/70907976/183747271-cc1cbdda-aead-4646-9643-8be72ca7c42a.png">
+
+
+
+
 
 Thank you for visiting my repository.
