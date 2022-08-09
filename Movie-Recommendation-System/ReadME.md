@@ -33,6 +33,8 @@ You can get the Datasets from the link given below
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 
+### Output Screenshots:
 
+![](images/ot1.png)
 
 Thank you for visiting my repository.
