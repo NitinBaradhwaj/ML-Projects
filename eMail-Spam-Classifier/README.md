@@ -15,6 +15,23 @@ A spam filter is a program used to detect unsolicited, unwanted and virus-infect
 * Run `pip install pickle`
 
 
+### Algorithms Used:
+* Support Vector Machine
+* NaÏve Bayes 
+* Gaussian NaÏve Bayes 
+* Multinomial NaÏve Bayes 
+* Bernoulli NaÏve Bayes 
+* Categorical NaÏve Bayes 
+* Random Forest
+* K-Nearest Neigbhours
+* Decision Tree
+* Logistic Regression
+* AdaBoost
+* Bagging Classifier
+* Extra Trees Classifier
+* Gradient Boosting Classifier
+
+
 #### Machine Learning Library In Python3
 Numpy , Pandas , nltk , Pickle, Seaborn, Matplotlib
 
