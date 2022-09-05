@@ -10,7 +10,7 @@ A spam filter is a program used to detect unsolicited, unwanted and virus-infect
 * Run `pip install numpy` 
 * Run `pip install seaborn`
 * Run `pip install matplotlib`
-* Run `pip install ast`
+* Run `pip install wordcloud`
 * Run `pip install nltk`
 * Run `pip install pickle`
 
